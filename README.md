@@ -6,7 +6,7 @@ The main idea behind this application was to create an application that creates 
 
 [Github](https://github.com/saharkichi/edit-this-text)
 <br>
-[Website Deployed on Heroku Here]()
+[Website Deployed on Heroku Here](https://mighty-dawn-12190.herokuapp.com/)
 
 ## Installation
 
@@ -23,4 +23,6 @@ npm run start:dev
 Special thanks to https://github.com/mariyasetko & https://github.com/JamesF905
 
 ## Screenshots
+
+![Screen Shot 2022-07-25 at 4 52 55 PM (2)](https://user-images.githubusercontent.com/105219789/180872166-30978d84-7632-4954-b5be-5d31004ffc0a.png)
 
